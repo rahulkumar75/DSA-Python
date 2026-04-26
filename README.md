@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-# ![Target](https://img.shields.io/badge/Target-NPCI-purple)
+
 
 Structured DSA practice in Python, targeting software engineering and DevOps interviews at product-based companies like NPCI. Solutions organized by topic with time/space complexity noted for every problem.
 
@@ -16,7 +16,7 @@ MCA graduate from BIT Mesra (2024), currently working as a Jr. DevOps Engineer s
 - **Education:** MCA — BIT Mesra (2024)
 - **Current role:** Jr. DevOps Engineer (June 2025 – present)
 - **DSA background:** JavaScript (Jan–Jul 2024)
-- **Goal:** NPCI Software / DevOps Engineer roles by 2027
+- **Goal:** Software / DevOps Engineer roles
 
 ---
 
