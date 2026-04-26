@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
-Structured DSA practice in Python, targeting software engineering and DevOps interviews at product-based companies like NPCI. Solutions organized by topic with time/space complexity noted for every problem.
+Structured DSA practice in Python, targeting software engineering and DevOps interviews at product-based companies. Solutions organized by topic with time/space complexity noted for every problem.
 
 ---
 
